@@ -1,0 +1,84 @@
+version: '3.3'
+services:
+  nginx:
+    build:
+      context: ../dockerfile/nginx
+      args:
+        NGINX_VERSION: $NGINX_VERSION
+    ports:
+      - "80:80"
+      - "443:443"
+    restart: always
+    tty: true
+    container_name: nginx
+    volumes:
+      - /Users/garbo/code/docker/www:/var/www/html
+      - /Users/garbo/code/docker/config/nginx/cert:/etc/nginx/cert
+      - /Users/garbo/code/docker/config/nginx/conf.d:/etc/nginx/conf.d
+      - /Users/garbo/code/docker/config/nginx/nginx.conf:/etc/nginx/nginx.conf
+      - /Users/garbo/code/docker/logs/nginx:/var/log/nginx
+    depends_on:
+      - php
+    networks:
+      - frontend
+  mysql:
+    build:
+      context: ../dockerfile/mysql
+      args:
+        MYSQL_VERSION: $MYSQL_VERSION
+    container_name: mysql
+    tty: true
+    restart: always
+    ports:
+      - "3306:3306"
+    volumes:
+      - /Users/garbo/code/docker/mysql:/var/lib/mysql
+      - /Users/garbo/code/docker/config/mysql/my.cnf:/etc/mysql/my.cnf
+      - /Users/garbo/code/docker/logs/mysql:/var/log/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456
+    networks:
+      - backend
+  php:
+    build:
+      context: ../dockerfile/php
+      args:
+        PHP_VERSION: $PHP_VERSION
+        SWOOLE_VERSION: $SWOOLE_VERSION
+        AMQP_VERSION: $AMQP_VERSION
+        REDIS_VERSION: 5.3.4
+        XDEBUG_VERSION: $XDEBUG_VERSION
+        MONGODB_VERSION: $MONGODB_VERSION
+    tty: true
+    restart: always
+    ports:
+      - "9200:9200"
+    container_name: php
+    volumes:
+      - /Users/garbo/code/docker/www:/var/www/html
+      - /Users/garbo/code/docker/config/php/php-fpm.conf:/usr/local/etc/php-fpm.conf
+      - /Users/garbo/code/docker/config/php/php-fpm.d:/usr/local/etc/php-fpm.d
+      - /Users/garbo/code/docker/config/php/php.ini:/usr/local/etc/php/php.ini
+      - /Users/garbo/code/docker/logs/php/errors.log:/var/log/fpm-php.www.log
+    networks:
+      - frontend
+      - backend
+  redis:
+    build:
+      context: ../dockerfile/redis
+      args:
+        REDIS_VERSION: $REDIS_VERSION
+    container_name: redis
+    tty: true
+    restart: always
+    ports:
+      - "6379:6379"
+    volumes:
+    - /Users/garbo/code/docker/config/redis/redis.conf/:/usr/local/etc/redis.conf
+    - /Users/garbo/code/docker/redis:/usr/local/redis/data
+    - /Users/garbo/code/docker/logs/redis/redis.log:/usr/local/redis/redis.log
+    networks:
+      - backend
+networks:
+  frontend:
+  backend:

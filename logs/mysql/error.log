@@ -1,0 +1,452 @@
+2021-05-30T19:20:45.081673Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:20:45.081698Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:20:45.081808Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+2021-05-30T19:20:45.088141Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2021-05-30T19:20:45.106598Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-05-30T19:20:45.139937Z 1 [ERROR] [MY-012592] [InnoDB] Operating system error number 2 in a file operation.
+2021-05-30T19:20:45.141253Z 1 [ERROR] [MY-012593] [InnoDB] The error means the system cannot find the path specified.
+2021-05-30T19:20:45.142194Z 1 [ERROR] [MY-012594] [InnoDB] If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2021-05-30T19:20:45.143289Z 1 [ERROR] [MY-012646] [InnoDB] File /usr/local/mysql/var/ibdata1: 'open' returned OS error 71. Cannot continue operation
+2021-05-30T19:20:45.144010Z 1 [ERROR] [MY-012981] [InnoDB] Cannot continue operation.
+2021-05-30T19:20:50.665448Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:20:50.665475Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:20:50.665646Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+2021-05-30T19:20:50.672730Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2021-05-30T19:20:50.693747Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-05-30T19:20:50.733068Z 1 [ERROR] [MY-012592] [InnoDB] Operating system error number 2 in a file operation.
+2021-05-30T19:20:50.734719Z 1 [ERROR] [MY-012593] [InnoDB] The error means the system cannot find the path specified.
+2021-05-30T19:20:50.737142Z 1 [ERROR] [MY-012594] [InnoDB] If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2021-05-30T19:20:50.738303Z 1 [ERROR] [MY-012646] [InnoDB] File /usr/local/mysql/var/ibdata1: 'open' returned OS error 71. Cannot continue operation
+2021-05-30T19:20:50.739167Z 1 [ERROR] [MY-012981] [InnoDB] Cannot continue operation.
+2021-05-30T19:20:55.929810Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:20:55.929835Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:20:55.929945Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+2021-05-30T19:20:55.936581Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2021-05-30T19:20:55.953693Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-05-30T19:20:55.986808Z 1 [ERROR] [MY-012592] [InnoDB] Operating system error number 2 in a file operation.
+2021-05-30T19:20:55.987933Z 1 [ERROR] [MY-012593] [InnoDB] The error means the system cannot find the path specified.
+2021-05-30T19:20:55.988781Z 1 [ERROR] [MY-012594] [InnoDB] If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2021-05-30T19:20:55.989500Z 1 [ERROR] [MY-012646] [InnoDB] File /usr/local/mysql/var/ibdata1: 'open' returned OS error 71. Cannot continue operation
+2021-05-30T19:20:55.990610Z 1 [ERROR] [MY-012981] [InnoDB] Cannot continue operation.
+2021-05-30T19:21:01.609495Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:21:01.609520Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:21:01.609632Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+2021-05-30T19:21:01.619353Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2021-05-30T19:21:01.645219Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-05-30T19:21:01.700111Z 1 [ERROR] [MY-012592] [InnoDB] Operating system error number 2 in a file operation.
+2021-05-30T19:21:01.701472Z 1 [ERROR] [MY-012593] [InnoDB] The error means the system cannot find the path specified.
+2021-05-30T19:21:01.703010Z 1 [ERROR] [MY-012594] [InnoDB] If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2021-05-30T19:21:01.703841Z 1 [ERROR] [MY-012646] [InnoDB] File /usr/local/mysql/var/ibdata1: 'open' returned OS error 71. Cannot continue operation
+2021-05-30T19:21:01.705079Z 1 [ERROR] [MY-012981] [InnoDB] Cannot continue operation.
+2021-05-30T19:21:09.556171Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:21:09.556215Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:21:09.556333Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+2021-05-30T19:21:09.563615Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2021-05-30T19:21:09.582127Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-05-30T19:21:09.619293Z 1 [ERROR] [MY-012592] [InnoDB] Operating system error number 2 in a file operation.
+2021-05-30T19:21:09.620472Z 1 [ERROR] [MY-012593] [InnoDB] The error means the system cannot find the path specified.
+2021-05-30T19:21:09.621246Z 1 [ERROR] [MY-012594] [InnoDB] If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2021-05-30T19:21:09.621851Z 1 [ERROR] [MY-012646] [InnoDB] File /usr/local/mysql/var/ibdata1: 'open' returned OS error 71. Cannot continue operation
+2021-05-30T19:21:09.622487Z 1 [ERROR] [MY-012981] [InnoDB] Cannot continue operation.
+2021-05-30T19:21:16.121271Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:21:16.121297Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:21:16.121404Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+2021-05-30T19:21:16.128497Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2021-05-30T19:21:16.146666Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-05-30T19:21:16.184019Z 1 [ERROR] [MY-012592] [InnoDB] Operating system error number 2 in a file operation.
+2021-05-30T19:21:16.185463Z 1 [ERROR] [MY-012593] [InnoDB] The error means the system cannot find the path specified.
+2021-05-30T19:21:16.186459Z 1 [ERROR] [MY-012594] [InnoDB] If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2021-05-30T19:21:16.187418Z 1 [ERROR] [MY-012646] [InnoDB] File /usr/local/mysql/var/ibdata1: 'open' returned OS error 71. Cannot continue operation
+2021-05-30T19:21:16.188401Z 1 [ERROR] [MY-012981] [InnoDB] Cannot continue operation.
+2021-05-30T19:21:21.381873Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:21:21.381902Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:21:21.382114Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+2021-05-30T19:21:21.389700Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2021-05-30T19:21:21.408386Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-05-30T19:21:21.442944Z 1 [ERROR] [MY-012592] [InnoDB] Operating system error number 2 in a file operation.
+2021-05-30T19:21:21.444129Z 1 [ERROR] [MY-012593] [InnoDB] The error means the system cannot find the path specified.
+2021-05-30T19:21:21.445225Z 1 [ERROR] [MY-012594] [InnoDB] If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2021-05-30T19:21:21.445846Z 1 [ERROR] [MY-012646] [InnoDB] File /usr/local/mysql/var/ibdata1: 'open' returned OS error 71. Cannot continue operation
+2021-05-30T19:21:21.446651Z 1 [ERROR] [MY-012981] [InnoDB] Cannot continue operation.
+2021-05-30T19:21:26.690452Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:21:26.690477Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:21:26.690590Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+2021-05-30T19:21:26.696945Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2021-05-30T19:21:26.714688Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-05-30T19:21:26.748947Z 1 [ERROR] [MY-012592] [InnoDB] Operating system error number 2 in a file operation.
+2021-05-30T19:21:26.750402Z 1 [ERROR] [MY-012593] [InnoDB] The error means the system cannot find the path specified.
+2021-05-30T19:21:26.751445Z 1 [ERROR] [MY-012594] [InnoDB] If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2021-05-30T19:21:26.752344Z 1 [ERROR] [MY-012646] [InnoDB] File /usr/local/mysql/var/ibdata1: 'open' returned OS error 71. Cannot continue operation
+2021-05-30T19:21:26.753422Z 1 [ERROR] [MY-012981] [InnoDB] Cannot continue operation.
+2021-05-30T19:21:32.022921Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:21:32.022946Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:21:32.023060Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+2021-05-30T19:21:32.030196Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2021-05-30T19:21:32.048701Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-05-30T19:21:32.084443Z 1 [ERROR] [MY-012592] [InnoDB] Operating system error number 2 in a file operation.
+2021-05-30T19:21:32.085700Z 1 [ERROR] [MY-012593] [InnoDB] The error means the system cannot find the path specified.
+2021-05-30T19:21:32.086751Z 1 [ERROR] [MY-012594] [InnoDB] If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2021-05-30T19:21:32.087425Z 1 [ERROR] [MY-012646] [InnoDB] File /usr/local/mysql/var/ibdata1: 'open' returned OS error 71. Cannot continue operation
+2021-05-30T19:21:32.088230Z 1 [ERROR] [MY-012981] [InnoDB] Cannot continue operation.
+2021-05-30T19:21:37.964173Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:21:37.964199Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:21:37.964312Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+2021-05-30T19:21:37.971523Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2021-05-30T19:21:37.990202Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-05-30T19:21:38.022829Z 1 [ERROR] [MY-012592] [InnoDB] Operating system error number 2 in a file operation.
+2021-05-30T19:21:38.023908Z 1 [ERROR] [MY-012593] [InnoDB] The error means the system cannot find the path specified.
+2021-05-30T19:21:38.024693Z 1 [ERROR] [MY-012594] [InnoDB] If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2021-05-30T19:21:38.025284Z 1 [ERROR] [MY-012646] [InnoDB] File /usr/local/mysql/var/ibdata1: 'open' returned OS error 71. Cannot continue operation
+2021-05-30T19:21:38.025878Z 1 [ERROR] [MY-012981] [InnoDB] Cannot continue operation.
+2021-05-30T19:21:45.398256Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:21:45.398282Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:21:45.398397Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+2021-05-30T19:21:45.404910Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2021-05-30T19:21:45.423460Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-05-30T19:21:45.456515Z 1 [ERROR] [MY-012592] [InnoDB] Operating system error number 2 in a file operation.
+2021-05-30T19:21:45.457425Z 1 [ERROR] [MY-012593] [InnoDB] The error means the system cannot find the path specified.
+2021-05-30T19:21:45.458229Z 1 [ERROR] [MY-012594] [InnoDB] If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2021-05-30T19:21:45.459156Z 1 [ERROR] [MY-012646] [InnoDB] File /usr/local/mysql/var/ibdata1: 'open' returned OS error 71. Cannot continue operation
+2021-05-30T19:21:45.459844Z 1 [ERROR] [MY-012981] [InnoDB] Cannot continue operation.
+2021-05-30T19:21:56.009525Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:21:56.009550Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:21:56.009656Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+2021-05-30T19:21:56.016985Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2021-05-30T19:21:56.037957Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-05-30T19:21:56.075536Z 1 [ERROR] [MY-012592] [InnoDB] Operating system error number 2 in a file operation.
+2021-05-30T19:21:56.076727Z 1 [ERROR] [MY-012593] [InnoDB] The error means the system cannot find the path specified.
+2021-05-30T19:21:56.077475Z 1 [ERROR] [MY-012594] [InnoDB] If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2021-05-30T19:21:56.078108Z 1 [ERROR] [MY-012646] [InnoDB] File /usr/local/mysql/var/ibdata1: 'open' returned OS error 71. Cannot continue operation
+2021-05-30T19:21:56.078718Z 1 [ERROR] [MY-012981] [InnoDB] Cannot continue operation.
+2021-05-30T19:22:13.037630Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:22:13.037655Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:22:13.037767Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+2021-05-30T19:22:13.044384Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2021-05-30T19:22:13.061138Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-05-30T19:22:13.093903Z 1 [ERROR] [MY-012592] [InnoDB] Operating system error number 2 in a file operation.
+2021-05-30T19:22:13.095252Z 1 [ERROR] [MY-012593] [InnoDB] The error means the system cannot find the path specified.
+2021-05-30T19:22:13.096223Z 1 [ERROR] [MY-012594] [InnoDB] If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2021-05-30T19:22:13.097163Z 1 [ERROR] [MY-012646] [InnoDB] File /usr/local/mysql/var/ibdata1: 'open' returned OS error 71. Cannot continue operation
+2021-05-30T19:22:13.098003Z 1 [ERROR] [MY-012981] [InnoDB] Cannot continue operation.
+2021-05-30T19:22:43.015463Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:22:43.015489Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:22:43.015594Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+2021-05-30T19:22:43.022641Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2021-05-30T19:22:43.041473Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-05-30T19:22:43.077381Z 1 [ERROR] [MY-012592] [InnoDB] Operating system error number 2 in a file operation.
+2021-05-30T19:22:43.079020Z 1 [ERROR] [MY-012593] [InnoDB] The error means the system cannot find the path specified.
+2021-05-30T19:22:43.080054Z 1 [ERROR] [MY-012594] [InnoDB] If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2021-05-30T19:22:43.080954Z 1 [ERROR] [MY-012646] [InnoDB] File /usr/local/mysql/var/ibdata1: 'open' returned OS error 71. Cannot continue operation
+2021-05-30T19:22:43.081720Z 1 [ERROR] [MY-012981] [InnoDB] Cannot continue operation.
+2021-05-30T19:23:38.079664Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:23:38.079687Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:23:38.079775Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:23:38.091279Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2021-05-30T19:23:38.119672Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-05-30T19:23:38.127527Z 1 [Warning] [MY-012191] [InnoDB] Scan path '/var/lib/mysql/var' is ignored because it is a sub-directory of '/var/lib/mysql/
+2021-05-30T19:23:38.165169Z 1 [ERROR] [MY-012592] [InnoDB] Operating system error number 2 in a file operation.
+2021-05-30T19:23:38.166093Z 1 [ERROR] [MY-012593] [InnoDB] The error means the system cannot find the path specified.
+2021-05-30T19:23:38.167015Z 1 [ERROR] [MY-012594] [InnoDB] If you are installing InnoDB, remember that you must create directories yourself, InnoDB does not create them.
+2021-05-30T19:23:38.168214Z 1 [ERROR] [MY-012646] [InnoDB] File /var/lib/mysql/var/ibdata1: 'create' returned OS error 71. Cannot continue operation
+2021-05-30T19:23:38.169392Z 1 [ERROR] [MY-012981] [InnoDB] Cannot continue operation.
+2021-05-30T19:23:52.415161Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:23:52.415179Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:23:52.415260Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 46
+2021-05-30T19:23:52.418383Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:23:52.420209Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:23:52.422301Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:23:52.422810Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:23:58.276898Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:23:58.276945Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:23:58.277152Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 46
+2021-05-30T19:23:58.283387Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:23:58.288231Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:23:58.293880Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:23:58.295061Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:24:04.029017Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:24:04.029036Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:24:04.029120Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 44
+2021-05-30T19:24:04.032088Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:24:04.034344Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:24:04.037016Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:24:04.037626Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:24:08.634048Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:24:08.634070Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:24:08.634170Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 46
+2021-05-30T19:24:08.638159Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:24:08.641126Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:24:08.644477Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:24:08.645305Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:24:12.947000Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:24:12.947021Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:24:12.947105Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:24:12.950746Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:24:12.952905Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:24:12.955721Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:24:12.956457Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:24:17.421472Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:24:17.421489Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:24:17.421564Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:24:17.424359Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:24:17.427964Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:24:17.430330Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:24:17.430923Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:24:25.329663Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:24:25.329685Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:24:25.329814Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:24:25.332710Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:24:25.334484Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:24:25.337020Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:24:25.337581Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:24:29.715309Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:24:29.715375Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:24:29.715500Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:24:29.719159Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:24:29.720879Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:24:29.724521Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:24:29.725315Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:24:34.899118Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:24:34.899135Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:24:34.899215Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:24:34.901789Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:24:34.903290Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:24:34.905727Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:24:34.906263Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:24:39.184225Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:24:39.184245Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:24:39.184324Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 44
+2021-05-30T19:24:39.187231Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:24:39.188756Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:24:39.191260Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:24:39.191869Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:24:43.540806Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:24:43.540830Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:24:43.540981Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:24:43.544050Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:24:43.545828Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:24:43.548481Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:24:43.549083Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:24:48.535739Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:24:48.535760Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:24:48.535836Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 46
+2021-05-30T19:24:48.538687Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:24:48.540567Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:24:48.543168Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:24:48.543702Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:24:54.978148Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:24:54.978165Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:24:54.978239Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 44
+2021-05-30T19:24:54.981127Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:24:54.982583Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:24:54.985139Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:24:54.985715Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:25:04.648289Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:25:04.648307Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:25:04.648461Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:25:04.652154Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:25:04.654220Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:25:04.656860Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:25:04.657440Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:25:20.954983Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:25:20.955004Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:25:20.955075Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:25:20.958147Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:25:20.960025Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:25:20.962451Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:25:20.963061Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:25:43.535015Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:25:43.535036Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:25:43.535111Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:25:43.537650Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:25:43.539043Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:25:43.541103Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:25:43.541548Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:25:49.490268Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:25:49.490285Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:25:49.490398Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:25:49.492993Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:25:49.494254Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:25:49.496193Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:25:49.496816Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:25:54.184795Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:25:54.184816Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:25:54.184892Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 46
+2021-05-30T19:25:54.188187Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:25:54.189819Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:25:54.192646Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:25:54.193365Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:25:58.511736Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:25:58.511757Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:25:58.511886Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 46
+2021-05-30T19:25:58.515872Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:25:58.517637Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:25:58.520359Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:25:58.521014Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:26:02.945498Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:26:02.945537Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:26:02.945671Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:26:02.950146Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:26:02.953478Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:26:02.958211Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:26:02.959277Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:26:07.871513Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:26:07.871531Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:26:07.871610Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:26:07.874505Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:26:07.876244Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:26:07.878841Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:26:07.879482Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:26:14.527515Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:26:14.527537Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:26:14.527799Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 46
+2021-05-30T19:26:14.532014Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:26:14.533858Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:26:14.536685Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:26:14.537320Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:26:24.222728Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:26:24.222803Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:26:24.222901Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 46
+2021-05-30T19:26:24.226198Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:26:24.228035Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:26:24.230627Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:26:24.231600Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:26:40.209305Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:26:40.209325Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:26:40.209406Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 44
+2021-05-30T19:26:40.212390Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:26:40.214144Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:26:40.216221Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:26:40.216832Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:27:09.362872Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:27:09.362900Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:27:09.363098Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:27:09.366956Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:27:09.369438Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:27:09.374049Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:27:09.375274Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:27:53.175768Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:27:53.175779Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:27:53.175853Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 44
+2021-05-30T19:27:53.178376Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:27:53.180213Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:27:53.182448Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:27:53.182977Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:27:59.043632Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:27:59.043648Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:27:59.043730Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 46
+2021-05-30T19:27:59.046830Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:27:59.049031Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:27:59.052464Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:27:59.053079Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:28:03.930791Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:28:03.930802Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:28:03.930882Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 46
+2021-05-30T19:28:03.933544Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:28:03.935312Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:28:03.937950Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:28:03.938683Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:28:08.393257Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:28:08.393321Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:28:08.393472Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 46
+2021-05-30T19:28:08.397243Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:28:08.399616Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:28:08.402105Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:28:08.402857Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:28:12.732904Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:28:12.732915Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:28:12.732998Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:28:12.735814Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:28:12.737571Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:28:12.739730Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:28:12.740342Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:28:17.578461Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:28:17.578482Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:28:17.578567Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:28:17.581745Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:28:17.583498Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:28:17.592009Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:28:17.592626Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:28:23.975810Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:28:23.975831Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:28:23.975920Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:28:23.978662Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:28:23.980342Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:28:23.982530Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:28:23.983042Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:28:33.648546Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:28:33.648562Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:28:33.648637Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 44
+2021-05-30T19:28:33.651356Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:28:33.653169Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:28:33.655457Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:28:33.656131Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:28:49.512091Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:28:49.512111Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:28:49.512192Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 44
+2021-05-30T19:28:49.514800Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:28:49.516382Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:28:49.523822Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:28:49.524318Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:28:58.363477Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:28:58.363494Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:28:58.363569Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 44
+2021-05-30T19:28:58.366130Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:28:58.367829Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:28:58.370985Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:28:58.371830Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:29:04.967857Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:29:04.967878Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:29:04.967967Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:29:04.970800Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:29:04.972656Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:29:04.974866Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:29:04.975297Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:29:10.153990Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:29:10.154008Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:29:10.154088Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 44
+2021-05-30T19:29:10.157335Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:29:10.159275Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:29:10.161763Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:29:10.162305Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:29:14.308223Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:29:14.308263Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:29:14.308358Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:29:14.312414Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:29:14.315346Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:29:14.318435Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:29:14.319368Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:29:18.761768Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:29:18.761789Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:29:18.761973Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 46
+2021-05-30T19:29:18.766169Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:29:18.767977Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:29:18.770934Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:29:18.771655Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T19:29:23.679726Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2021-05-30T19:29:23.679746Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T19:29:23.679830Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.20) initializing of server in progress as process 45
+2021-05-30T19:29:23.682372Z 0 [ERROR] [MY-010457] [Server] --initialize specified but the data directory has files in it. Aborting.
+2021-05-30T19:29:23.683666Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2021-05-30T19:29:23.685822Z 0 [ERROR] [MY-010119] [Server] Aborting
+2021-05-30T19:29:23.686254Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T20:12:32.115296Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T20:12:32.115418Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+2021-05-30T20:12:32.122797Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2021-05-30T20:12:32.139865Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-05-30T20:12:32.684189Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-05-30T20:12:32.898772Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/run/mysqld/mysqlx.sock' bind-address: '::' port: 33060
+2021-05-30T20:12:33.000870Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-05-30T20:12:33.014347Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+2021-05-30T20:12:33.088473Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.20'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server - GPL.
+2021-05-30T20:12:41.286261Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.20)  MySQL Community Server - GPL.
+2021-05-30T20:12:48.208679Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+2021-05-30T20:12:48.208797Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+2021-05-30T20:12:48.219713Z 0 [Warning] [MY-010159] [Server] Setting lower_case_table_names=2 because file system for /var/lib/mysql/ is case insensitive
+2021-05-30T20:12:48.239618Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-05-30T20:12:48.863431Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-05-30T20:12:49.067656Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/run/mysqld/mysqlx.sock' bind-address: '::' port: 33060
+2021-05-30T20:12:49.220309Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-05-30T20:12:49.230305Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+2021-05-30T20:12:49.302963Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.20'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server - GPL.
+mbind: Operation not permitted
+mbind: Operation not permitted

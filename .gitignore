@@ -1,0 +1,12 @@
+.idea
+mysql/*
+redis/*
+logs/nginx/*
+!logs/nginx/access.log
+!logs/nginx/error.log
+logs/mysql/*
+!logs/mysql/error.log
+logs/php/*
+!logs/php/errors.log
+logs/redis/*
+!logs/redis/redis.log

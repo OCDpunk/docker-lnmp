@@ -1,0 +1,12 @@
+[30-May-2021 18:43:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'172.23.0.4' (using password: YES) in /var/www/html/default/index.php on line 3
+[30-May-2021 18:43:06 UTC] PHP Stack trace:
+[30-May-2021 18:43:06 UTC] PHP   1. {main}() /var/www/html/default/index.php:0
+[30-May-2021 18:43:06 UTC] PHP   2. mysqli_connect($hostname = 'mysql', $username = 'root', $password = '1234561') /var/www/html/default/index.php:3
+[30-May-2021 18:45:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'172.23.0.4' (using password: YES) in /var/www/html/default/index.php on line 3
+[30-May-2021 18:45:52 UTC] PHP Stack trace:
+[30-May-2021 18:45:52 UTC] PHP   1. {main}() /var/www/html/default/index.php:0
+[30-May-2021 18:45:52 UTC] PHP   2. mysqli_connect($hostname = 'mysql', $username = 'root', $password = '1234561') /var/www/html/default/index.php:3
+[30-May-2021 18:46:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /var/www/html/default/index.php on line 3
+[30-May-2021 18:46:07 UTC] PHP Stack trace:
+[30-May-2021 18:46:07 UTC] PHP   1. {main}() /var/www/html/default/index.php:0
+[30-May-2021 18:46:07 UTC] PHP   2. mysqli_connect($hostname = 'mysql', $username = 'root', $password = '1234561') /var/www/html/default/index.php:3

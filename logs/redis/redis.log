@@ -1,0 +1,781 @@
+1:C 31 May 2021 00:59:45.997 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 00:59:46.003 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 00:59:46.009 # Configuration loaded
+1:M 31 May 2021 00:59:46.021 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 00:59:46.047 * Running mode=standalone, port=6379.
+1:M 31 May 2021 00:59:46.053 # Server initialized
+1:M 31 May 2021 00:59:46.063 * Ready to accept connections
+1:signal-handler (1622395578) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 01:26:18.804 # User requested shutdown...
+1:M 31 May 2021 01:26:18.808 * Calling fsync() on the AOF file.
+1:M 31 May 2021 01:26:18.812 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 01:26:18.821 * DB saved on disk
+1:M 31 May 2021 01:26:18.824 * Removing the pid file.
+1:M 31 May 2021 01:26:18.827 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 01:26:26.852 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 01:26:26.860 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 01:26:26.864 # Configuration loaded
+1:M 31 May 2021 01:26:26.870 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 01:26:26.881 * Running mode=standalone, port=6379.
+1:M 31 May 2021 01:26:26.886 # Server initialized
+1:M 31 May 2021 01:26:26.894 * Ready to accept connections
+1:signal-handler (1622395862) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 01:31:02.711 # User requested shutdown...
+1:M 31 May 2021 01:31:02.713 * Calling fsync() on the AOF file.
+1:M 31 May 2021 01:31:02.716 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 01:31:02.723 * DB saved on disk
+1:M 31 May 2021 01:31:02.725 * Removing the pid file.
+1:M 31 May 2021 01:31:02.728 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 01:31:14.159 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 01:31:14.162 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 01:31:14.166 # Configuration loaded
+1:M 31 May 2021 01:31:14.170 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 01:31:14.177 * Running mode=standalone, port=6379.
+1:M 31 May 2021 01:31:14.181 # Server initialized
+1:M 31 May 2021 01:31:14.189 * Ready to accept connections
+1:signal-handler (1622396818) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 01:46:58.274 # User requested shutdown...
+1:M 31 May 2021 01:46:58.278 * Calling fsync() on the AOF file.
+1:M 31 May 2021 01:46:58.282 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 01:46:58.296 * DB saved on disk
+1:M 31 May 2021 01:46:58.300 * Removing the pid file.
+1:M 31 May 2021 01:46:58.305 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 01:47:06.482 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 01:47:06.487 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 01:47:06.495 # Configuration loaded
+1:M 31 May 2021 01:47:06.501 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 01:47:06.516 * Running mode=standalone, port=6379.
+1:M 31 May 2021 01:47:06.520 # Server initialized
+1:M 31 May 2021 01:47:06.526 * Ready to accept connections
+1:signal-handler (1622396934) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 01:48:54.549 # User requested shutdown...
+1:M 31 May 2021 01:48:54.553 * Calling fsync() on the AOF file.
+1:M 31 May 2021 01:48:54.555 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 01:48:54.567 * DB saved on disk
+1:M 31 May 2021 01:48:54.571 * Removing the pid file.
+1:M 31 May 2021 01:48:54.575 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 01:49:01.932 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 01:49:01.935 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 01:49:01.938 # Configuration loaded
+1:M 31 May 2021 01:49:01.944 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 01:49:01.959 * Running mode=standalone, port=6379.
+1:M 31 May 2021 01:49:01.967 # Server initialized
+1:M 31 May 2021 01:49:01.979 * Ready to accept connections
+1:signal-handler (1622399030) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:23:50.459 # User requested shutdown...
+1:M 31 May 2021 02:23:50.462 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:23:50.465 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:23:50.476 * DB saved on disk
+1:M 31 May 2021 02:23:50.480 * Removing the pid file.
+1:M 31 May 2021 02:23:50.483 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:23:54.959 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:23:54.962 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:23:54.965 # Configuration loaded
+1:M 31 May 2021 02:23:54.970 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:23:54.979 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:23:54.982 # Server initialized
+1:M 31 May 2021 02:23:54.988 * Ready to accept connections
+1:signal-handler (1622399092) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:24:52.435 # User requested shutdown...
+1:M 31 May 2021 02:24:52.437 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:24:52.440 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:24:52.450 * DB saved on disk
+1:M 31 May 2021 02:24:52.452 * Removing the pid file.
+1:M 31 May 2021 02:24:52.455 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:24:56.907 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:24:56.912 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:24:56.918 # Configuration loaded
+1:M 31 May 2021 02:24:56.929 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:24:56.939 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:24:56.942 # Server initialized
+1:M 31 May 2021 02:24:56.948 * Ready to accept connections
+1:signal-handler (1622399111) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:25:11.816 # User requested shutdown...
+1:M 31 May 2021 02:25:11.819 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:25:11.823 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:25:11.840 * DB saved on disk
+1:M 31 May 2021 02:25:11.854 * Removing the pid file.
+1:M 31 May 2021 02:25:11.872 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:25:21.633 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:25:21.649 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:25:21.661 # Configuration loaded
+1:M 31 May 2021 02:25:21.669 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:25:21.714 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:25:21.719 # Server initialized
+1:M 31 May 2021 02:25:21.738 * Ready to accept connections
+1:signal-handler (1622399227) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:27:07.075 # User requested shutdown...
+1:M 31 May 2021 02:27:07.078 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:27:07.081 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:27:07.091 * DB saved on disk
+1:M 31 May 2021 02:27:07.095 * Removing the pid file.
+1:M 31 May 2021 02:27:07.099 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:27:14.644 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:27:14.648 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:27:14.655 # Configuration loaded
+1:M 31 May 2021 02:27:14.665 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:27:14.676 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:27:14.681 # Server initialized
+1:M 31 May 2021 02:27:14.690 * Ready to accept connections
+1:signal-handler (1622399348) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:29:08.327 # User requested shutdown...
+1:M 31 May 2021 02:29:08.331 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:29:08.335 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:29:08.346 * DB saved on disk
+1:M 31 May 2021 02:29:08.349 * Removing the pid file.
+1:M 31 May 2021 02:29:08.352 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:29:14.786 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:29:14.794 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:29:14.807 # Configuration loaded
+1:M 31 May 2021 02:29:14.814 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:29:14.830 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:29:14.837 # Server initialized
+1:M 31 May 2021 02:29:14.852 * Ready to accept connections
+1:signal-handler (1622399393) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:29:53.763 # User requested shutdown...
+1:M 31 May 2021 02:29:53.766 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:29:53.768 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:29:53.778 * DB saved on disk
+1:M 31 May 2021 02:29:53.781 * Removing the pid file.
+1:M 31 May 2021 02:29:53.785 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:29:59.509 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:29:59.516 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:29:59.524 # Configuration loaded
+1:M 31 May 2021 02:29:59.529 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:29:59.543 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:29:59.546 # Server initialized
+1:M 31 May 2021 02:29:59.552 * Ready to accept connections
+1:signal-handler (1622399441) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:30:41.660 # User requested shutdown...
+1:M 31 May 2021 02:30:41.662 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:30:41.666 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:30:41.680 * DB saved on disk
+1:M 31 May 2021 02:30:41.683 * Removing the pid file.
+1:M 31 May 2021 02:30:41.686 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:30:50.085 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:30:50.088 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:30:50.092 # Configuration loaded
+1:M 31 May 2021 02:30:50.097 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:30:50.107 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:30:50.111 # Server initialized
+1:M 31 May 2021 02:30:50.115 * Ready to accept connections
+1:signal-handler (1622399501) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:31:41.909 # User requested shutdown...
+1:M 31 May 2021 02:31:41.913 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:31:41.918 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:31:41.927 * DB saved on disk
+1:M 31 May 2021 02:31:41.929 * Removing the pid file.
+1:M 31 May 2021 02:31:41.932 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:31:49.337 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:31:49.344 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:31:49.352 # Configuration loaded
+1:M 31 May 2021 02:31:49.358 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:31:49.368 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:31:49.374 # Server initialized
+1:M 31 May 2021 02:31:49.384 * Ready to accept connections
+1:signal-handler (1622399591) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:33:11.276 # User requested shutdown...
+1:M 31 May 2021 02:33:11.280 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:33:11.289 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:33:11.311 * DB saved on disk
+1:M 31 May 2021 02:33:11.315 * Removing the pid file.
+1:M 31 May 2021 02:33:11.318 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:33:18.400 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:33:18.406 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:33:18.411 # Configuration loaded
+1:M 31 May 2021 02:33:18.417 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:33:18.426 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:33:18.429 # Server initialized
+1:M 31 May 2021 02:33:18.434 * Ready to accept connections
+1:signal-handler (1622399811) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:36:51.758 # User requested shutdown...
+1:M 31 May 2021 02:36:51.767 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:36:51.773 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:36:51.787 * DB saved on disk
+1:M 31 May 2021 02:36:51.792 * Removing the pid file.
+1:M 31 May 2021 02:36:51.800 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:36:58.690 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:36:58.694 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:36:58.704 # Configuration loaded
+1:M 31 May 2021 02:36:58.710 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:36:58.718 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:36:58.721 # Server initialized
+1:M 31 May 2021 02:36:58.727 * Ready to accept connections
+1:signal-handler (1622399873) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:37:53.908 # User requested shutdown...
+1:M 31 May 2021 02:37:53.914 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:37:53.918 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:37:53.932 * DB saved on disk
+1:M 31 May 2021 02:37:53.935 * Removing the pid file.
+1:M 31 May 2021 02:37:53.939 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:38:02.981 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:38:02.986 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:38:02.992 # Configuration loaded
+1:M 31 May 2021 02:38:02.997 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:38:03.007 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:38:03.014 # Server initialized
+1:M 31 May 2021 02:38:03.028 * Ready to accept connections
+1:signal-handler (1622399944) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:39:04.902 # User requested shutdown...
+1:M 31 May 2021 02:39:04.905 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:39:04.910 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:39:04.923 * DB saved on disk
+1:M 31 May 2021 02:39:04.926 * Removing the pid file.
+1:M 31 May 2021 02:39:04.930 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:39:14.286 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:39:14.291 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:39:14.297 # Configuration loaded
+1:M 31 May 2021 02:39:14.302 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:39:14.309 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:39:14.312 # Server initialized
+1:M 31 May 2021 02:39:14.318 * Ready to accept connections
+1:signal-handler (1622400002) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:40:02.520 # User requested shutdown...
+1:M 31 May 2021 02:40:02.525 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:40:02.529 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:40:02.542 * DB saved on disk
+1:M 31 May 2021 02:40:02.547 * Removing the pid file.
+1:M 31 May 2021 02:40:02.554 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:40:09.851 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:40:09.854 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:40:09.858 # Configuration loaded
+1:M 31 May 2021 02:40:09.863 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:40:09.871 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:40:09.875 # Server initialized
+1:M 31 May 2021 02:40:09.881 * Ready to accept connections
+1:signal-handler (1622400041) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:40:41.316 # User requested shutdown...
+1:M 31 May 2021 02:40:41.318 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:40:41.321 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:40:41.332 * DB saved on disk
+1:M 31 May 2021 02:40:41.333 * Removing the pid file.
+1:M 31 May 2021 02:40:41.336 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:40:49.617 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:40:49.628 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:40:49.636 # Configuration loaded
+1:M 31 May 2021 02:40:49.640 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:40:49.650 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:40:49.653 # Server initialized
+1:M 31 May 2021 02:40:49.657 * Ready to accept connections
+1:signal-handler (1622400154) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:42:34.575 # User requested shutdown...
+1:M 31 May 2021 02:42:34.582 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:42:34.587 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:42:34.600 * DB saved on disk
+1:M 31 May 2021 02:42:34.604 * Removing the pid file.
+1:M 31 May 2021 02:42:34.610 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:42:42.949 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:42:42.954 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:42:42.960 # Configuration loaded
+1:M 31 May 2021 02:42:42.966 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:42:42.975 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:42:42.980 # Server initialized
+1:M 31 May 2021 02:42:42.997 * Ready to accept connections
+1:signal-handler (1622400268) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:44:28.349 # User requested shutdown...
+1:M 31 May 2021 02:44:28.352 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:44:28.355 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:44:28.365 * DB saved on disk
+1:M 31 May 2021 02:44:28.368 * Removing the pid file.
+1:M 31 May 2021 02:44:28.374 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:44:36.513 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:44:36.518 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:44:36.524 # Configuration loaded
+1:M 31 May 2021 02:44:36.530 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:44:36.538 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:44:36.542 # Server initialized
+1:M 31 May 2021 02:44:36.550 * Ready to accept connections
+1:signal-handler (1622400290) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:44:50.726 # User requested shutdown...
+1:M 31 May 2021 02:44:50.729 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:44:50.733 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:44:50.745 * DB saved on disk
+1:M 31 May 2021 02:44:50.747 * Removing the pid file.
+1:M 31 May 2021 02:44:50.751 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:44:58.753 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:44:58.756 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:44:58.759 # Configuration loaded
+1:M 31 May 2021 02:44:58.764 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:44:58.773 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:44:58.778 # Server initialized
+1:M 31 May 2021 02:44:58.782 * Ready to accept connections
+1:signal-handler (1622400354) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:45:54.584 # User requested shutdown...
+1:M 31 May 2021 02:45:54.588 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:45:54.592 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:45:54.607 * DB saved on disk
+1:M 31 May 2021 02:45:54.613 * Removing the pid file.
+1:M 31 May 2021 02:45:54.617 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:46:01.420 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:46:01.424 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:46:01.428 # Configuration loaded
+1:M 31 May 2021 02:46:01.434 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:46:01.445 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:46:01.448 # Server initialized
+1:M 31 May 2021 02:46:01.457 * Ready to accept connections
+1:signal-handler (1622400595) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:49:56.018 # User requested shutdown...
+1:M 31 May 2021 02:49:56.021 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:49:56.024 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:49:56.038 * DB saved on disk
+1:M 31 May 2021 02:49:56.041 * Removing the pid file.
+1:M 31 May 2021 02:49:56.044 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:50:04.477 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:50:04.486 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:50:04.495 # Configuration loaded
+1:M 31 May 2021 02:50:04.505 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:50:04.514 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:50:04.519 # Server initialized
+1:M 31 May 2021 02:50:04.525 * Ready to accept connections
+1:signal-handler (1622400639) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:50:39.286 # User requested shutdown...
+1:M 31 May 2021 02:50:39.294 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:50:39.298 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:50:39.308 * DB saved on disk
+1:M 31 May 2021 02:50:39.311 * Removing the pid file.
+1:M 31 May 2021 02:50:39.314 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:50:45.252 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:50:45.256 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:50:45.266 # Configuration loaded
+1:M 31 May 2021 02:50:45.272 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:50:45.279 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:50:45.283 # Server initialized
+1:M 31 May 2021 02:50:45.295 * Ready to accept connections
+1:signal-handler (1622400747) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:52:27.027 # User requested shutdown...
+1:M 31 May 2021 02:52:27.030 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:52:27.033 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:52:27.050 * DB saved on disk
+1:M 31 May 2021 02:52:27.052 * Removing the pid file.
+1:M 31 May 2021 02:52:27.055 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:52:33.725 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:52:33.732 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:52:33.746 # Configuration loaded
+1:M 31 May 2021 02:52:33.754 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:52:33.767 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:52:33.774 # Server initialized
+1:M 31 May 2021 02:52:33.780 * Ready to accept connections
+1:signal-handler (1622400826) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:53:46.044 # User requested shutdown...
+1:M 31 May 2021 02:53:46.049 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:53:46.052 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:53:46.067 * DB saved on disk
+1:M 31 May 2021 02:53:46.070 * Removing the pid file.
+1:M 31 May 2021 02:53:46.073 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:53:55.254 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:53:55.259 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:53:55.271 # Configuration loaded
+1:M 31 May 2021 02:53:55.296 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:53:55.306 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:53:55.314 # Server initialized
+1:M 31 May 2021 02:53:55.322 * Ready to accept connections
+1:signal-handler (1622400958) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:55:58.371 # User requested shutdown...
+1:M 31 May 2021 02:55:58.375 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:55:58.379 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:55:58.388 * DB saved on disk
+1:M 31 May 2021 02:55:58.391 * Removing the pid file.
+1:M 31 May 2021 02:55:58.394 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:56:05.728 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:56:05.737 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:56:05.742 # Configuration loaded
+1:M 31 May 2021 02:56:05.748 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:56:05.757 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:56:05.765 # Server initialized
+1:M 31 May 2021 02:56:05.776 * Ready to accept connections
+1:signal-handler (1622401086) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 02:58:06.207 # User requested shutdown...
+1:M 31 May 2021 02:58:06.215 * Calling fsync() on the AOF file.
+1:M 31 May 2021 02:58:06.220 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 02:58:06.232 * DB saved on disk
+1:M 31 May 2021 02:58:06.236 * Removing the pid file.
+1:M 31 May 2021 02:58:06.240 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 02:58:16.626 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 02:58:16.630 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 02:58:16.638 # Configuration loaded
+1:M 31 May 2021 02:58:16.647 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 02:58:16.671 * Running mode=standalone, port=6379.
+1:M 31 May 2021 02:58:16.678 # Server initialized
+1:M 31 May 2021 02:58:16.684 * Ready to accept connections
+1:signal-handler (1622401291) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:01:31.286 # User requested shutdown...
+1:M 31 May 2021 03:01:31.290 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:01:31.297 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:01:31.318 * DB saved on disk
+1:M 31 May 2021 03:01:31.322 * Removing the pid file.
+1:M 31 May 2021 03:01:31.326 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:01:39.509 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:01:39.514 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:01:39.519 # Configuration loaded
+1:M 31 May 2021 03:01:39.524 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:01:39.531 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:01:39.534 # Server initialized
+1:M 31 May 2021 03:01:39.539 * Ready to accept connections
+1:signal-handler (1622401400) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:03:20.083 # User requested shutdown...
+1:M 31 May 2021 03:03:20.087 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:03:20.091 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:03:20.108 * DB saved on disk
+1:M 31 May 2021 03:03:20.111 * Removing the pid file.
+1:M 31 May 2021 03:03:20.115 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:03:28.147 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:03:28.153 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:03:28.157 # Configuration loaded
+1:M 31 May 2021 03:03:28.165 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:03:28.176 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:03:28.184 # Server initialized
+1:M 31 May 2021 03:03:28.190 * Ready to accept connections
+1:C 31 May 2021 03:09:30.105 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:09:30.108 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:09:30.110 # Configuration loaded
+1:M 31 May 2021 03:09:30.113 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:09:30.120 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:09:30.122 # Server initialized
+1:M 31 May 2021 03:09:30.125 * Ready to accept connections
+1:signal-handler (1622401786) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:09:46.293 # User requested shutdown...
+1:M 31 May 2021 03:09:46.294 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:09:46.297 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:09:46.306 * DB saved on disk
+1:M 31 May 2021 03:09:46.308 * Removing the pid file.
+1:M 31 May 2021 03:09:46.313 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:09:54.401 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:09:54.406 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:09:54.410 # Configuration loaded
+1:M 31 May 2021 03:09:54.413 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:09:54.420 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:09:54.422 # Server initialized
+1:M 31 May 2021 03:09:54.430 * Ready to accept connections
+1:signal-handler (1622401854) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:10:54.205 # User requested shutdown...
+1:M 31 May 2021 03:10:54.208 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:10:54.211 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:10:54.221 * DB saved on disk
+1:M 31 May 2021 03:10:54.224 * Removing the pid file.
+1:M 31 May 2021 03:10:54.229 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:11:02.063 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:11:02.065 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:11:02.069 # Configuration loaded
+1:M 31 May 2021 03:11:02.073 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:11:02.078 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:11:02.080 # Server initialized
+1:M 31 May 2021 03:11:02.084 * Ready to accept connections
+1:signal-handler (1622402011) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:13:31.196 # User requested shutdown...
+1:M 31 May 2021 03:13:31.199 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:13:31.202 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:13:31.213 * DB saved on disk
+1:M 31 May 2021 03:13:31.215 * Removing the pid file.
+1:M 31 May 2021 03:13:31.220 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:13:39.875 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:13:39.879 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:13:39.884 # Configuration loaded
+1:M 31 May 2021 03:13:39.890 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:13:39.897 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:13:39.901 # Server initialized
+1:M 31 May 2021 03:13:39.909 * Ready to accept connections
+1:signal-handler (1622402148) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:15:48.782 # User requested shutdown...
+1:M 31 May 2021 03:15:48.785 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:15:48.788 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:15:48.798 * DB saved on disk
+1:M 31 May 2021 03:15:48.800 * Removing the pid file.
+1:M 31 May 2021 03:15:48.803 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:15:56.874 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:15:56.877 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:15:56.879 # Configuration loaded
+1:M 31 May 2021 03:15:56.881 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:15:56.888 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:15:56.890 # Server initialized
+1:M 31 May 2021 03:15:56.893 * Ready to accept connections
+1:signal-handler (1622402225) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:17:05.521 # User requested shutdown...
+1:M 31 May 2021 03:17:05.523 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:17:05.526 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:17:05.538 * DB saved on disk
+1:M 31 May 2021 03:17:05.541 * Removing the pid file.
+1:M 31 May 2021 03:17:05.545 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:17:13.018 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:17:13.024 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:17:13.027 # Configuration loaded
+1:M 31 May 2021 03:17:13.030 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:17:13.035 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:17:13.036 # Server initialized
+1:M 31 May 2021 03:17:13.043 * Ready to accept connections
+1:signal-handler (1622402262) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:17:42.748 # User requested shutdown...
+1:M 31 May 2021 03:17:42.752 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:17:42.755 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:17:42.763 * DB saved on disk
+1:M 31 May 2021 03:17:42.766 * Removing the pid file.
+1:M 31 May 2021 03:17:42.769 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:17:50.770 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:17:50.773 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:17:50.775 # Configuration loaded
+1:M 31 May 2021 03:17:50.778 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:17:50.786 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:17:50.787 # Server initialized
+1:M 31 May 2021 03:17:50.791 * Ready to accept connections
+1:signal-handler (1622402302) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:18:22.447 # User requested shutdown...
+1:M 31 May 2021 03:18:22.450 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:18:22.452 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:18:22.460 * DB saved on disk
+1:M 31 May 2021 03:18:22.462 * Removing the pid file.
+1:M 31 May 2021 03:18:22.464 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:18:30.097 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:18:30.100 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:18:30.102 # Configuration loaded
+1:M 31 May 2021 03:18:30.107 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:18:30.115 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:18:30.118 # Server initialized
+1:M 31 May 2021 03:18:30.122 * Ready to accept connections
+1:signal-handler (1622402424) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:20:24.374 # User requested shutdown...
+1:M 31 May 2021 03:20:24.379 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:20:24.383 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:20:24.393 * DB saved on disk
+1:M 31 May 2021 03:20:24.396 * Removing the pid file.
+1:M 31 May 2021 03:20:24.400 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:20:33.607 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:20:33.611 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:20:33.613 # Configuration loaded
+1:M 31 May 2021 03:20:33.617 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:20:33.629 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:20:33.632 # Server initialized
+1:M 31 May 2021 03:20:33.637 * Ready to accept connections
+1:signal-handler (1622402458) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:20:58.841 # User requested shutdown...
+1:M 31 May 2021 03:20:58.842 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:20:58.845 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:20:58.849 * DB saved on disk
+1:M 31 May 2021 03:20:58.850 * Removing the pid file.
+1:M 31 May 2021 03:20:58.852 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:21:05.227 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:21:05.235 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:21:05.241 # Configuration loaded
+1:M 31 May 2021 03:21:05.247 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:21:05.256 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:21:05.259 # Server initialized
+1:M 31 May 2021 03:21:05.264 * Ready to accept connections
+1:signal-handler (1622402626) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:23:46.338 # User requested shutdown...
+1:M 31 May 2021 03:23:46.343 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:23:46.348 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:23:46.359 * DB saved on disk
+1:M 31 May 2021 03:23:46.362 * Removing the pid file.
+1:M 31 May 2021 03:23:46.365 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:23:54.554 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:23:54.557 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:23:54.560 # Configuration loaded
+1:M 31 May 2021 03:23:54.563 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:23:54.573 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:23:54.575 # Server initialized
+1:M 31 May 2021 03:23:54.577 * Ready to accept connections
+1:signal-handler (1622402656) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:24:16.751 # User requested shutdown...
+1:M 31 May 2021 03:24:16.754 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:24:16.757 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:24:16.763 * DB saved on disk
+1:M 31 May 2021 03:24:16.766 * Removing the pid file.
+1:M 31 May 2021 03:24:16.769 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:24:23.858 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:24:23.863 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:24:23.866 # Configuration loaded
+1:M 31 May 2021 03:24:23.872 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:24:23.877 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:24:23.881 # Server initialized
+1:M 31 May 2021 03:24:23.886 * Ready to accept connections
+1:signal-handler (1622402737) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:25:37.843 # User requested shutdown...
+1:M 31 May 2021 03:25:37.844 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:25:37.846 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:25:37.851 * DB saved on disk
+1:M 31 May 2021 03:25:37.854 * Removing the pid file.
+1:M 31 May 2021 03:25:37.858 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:25:45.726 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:25:45.728 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:25:45.732 # Configuration loaded
+1:M 31 May 2021 03:25:45.735 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:25:45.740 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:25:45.743 # Server initialized
+1:M 31 May 2021 03:25:45.747 * Ready to accept connections
+1:signal-handler (1622402866) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:27:46.398 # User requested shutdown...
+1:M 31 May 2021 03:27:46.401 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:27:46.404 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:27:46.414 * DB saved on disk
+1:M 31 May 2021 03:27:46.417 * Removing the pid file.
+1:M 31 May 2021 03:27:46.421 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:27:54.263 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:27:54.266 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:27:54.270 # Configuration loaded
+1:M 31 May 2021 03:27:54.275 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:27:54.282 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:27:54.284 # Server initialized
+1:M 31 May 2021 03:27:54.289 * Ready to accept connections
+1:signal-handler (1622402932) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:28:52.166 # User requested shutdown...
+1:M 31 May 2021 03:28:52.169 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:28:52.172 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:28:52.180 * DB saved on disk
+1:M 31 May 2021 03:28:52.182 * Removing the pid file.
+1:M 31 May 2021 03:28:52.184 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:28:59.586 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:28:59.590 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:28:59.597 # Configuration loaded
+1:M 31 May 2021 03:28:59.602 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:28:59.608 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:28:59.610 # Server initialized
+1:M 31 May 2021 03:28:59.615 * Ready to accept connections
+1:signal-handler (1622402966) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:29:26.828 # User requested shutdown...
+1:M 31 May 2021 03:29:26.832 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:29:26.835 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:29:26.843 * DB saved on disk
+1:M 31 May 2021 03:29:26.845 * Removing the pid file.
+1:M 31 May 2021 03:29:26.848 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:29:34.822 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:29:34.825 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:29:34.829 # Configuration loaded
+1:M 31 May 2021 03:29:34.833 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:29:34.841 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:29:34.843 # Server initialized
+1:M 31 May 2021 03:29:34.846 * Ready to accept connections
+1:signal-handler (1622403065) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:31:05.624 # User requested shutdown...
+1:M 31 May 2021 03:31:05.628 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:31:05.631 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:31:05.638 * DB saved on disk
+1:M 31 May 2021 03:31:05.643 * Removing the pid file.
+1:M 31 May 2021 03:31:05.647 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:31:13.724 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:31:13.727 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:31:13.732 # Configuration loaded
+1:M 31 May 2021 03:31:13.737 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:31:13.743 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:31:13.746 # Server initialized
+1:M 31 May 2021 03:31:13.752 * Ready to accept connections
+1:signal-handler (1622403123) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:32:03.058 # User requested shutdown...
+1:M 31 May 2021 03:32:03.062 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:32:03.066 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:32:03.077 * DB saved on disk
+1:M 31 May 2021 03:32:03.079 * Removing the pid file.
+1:M 31 May 2021 03:32:03.082 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:32:10.122 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:32:10.125 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:32:10.134 # Configuration loaded
+1:M 31 May 2021 03:32:10.137 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:32:10.146 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:32:10.148 # Server initialized
+1:M 31 May 2021 03:32:10.151 * Ready to accept connections
+1:signal-handler (1622403226) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:33:46.250 # User requested shutdown...
+1:M 31 May 2021 03:33:46.254 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:33:46.258 * Saving the final RDB snapshot before exiting.
+1:C 31 May 2021 03:38:54.134 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:38:54.138 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:38:54.141 # Configuration loaded
+1:M 31 May 2021 03:38:54.145 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:38:54.153 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:38:54.156 # Server initialized
+1:M 31 May 2021 03:38:54.160 * Ready to accept connections
+1:signal-handler (1622403566) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:39:27.018 # User requested shutdown...
+1:M 31 May 2021 03:39:27.020 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:39:27.022 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:39:27.028 * DB saved on disk
+1:M 31 May 2021 03:39:27.030 * Removing the pid file.
+1:M 31 May 2021 03:39:27.031 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:48:09.472 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:48:09.476 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:48:09.483 # Configuration loaded
+1:M 31 May 2021 03:48:09.487 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:48:09.493 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:48:09.496 # Server initialized
+1:M 31 May 2021 03:48:09.499 * Ready to accept connections
+1:signal-handler (1622404288) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:51:28.944 # User requested shutdown...
+1:M 31 May 2021 03:51:28.946 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:51:28.949 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:51:28.955 * DB saved on disk
+1:M 31 May 2021 03:51:28.957 * Removing the pid file.
+1:M 31 May 2021 03:51:28.959 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:51:36.130 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:51:36.137 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:51:36.142 # Configuration loaded
+1:M 31 May 2021 03:51:36.150 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:51:36.162 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:51:36.167 # Server initialized
+1:M 31 May 2021 03:51:36.172 * Ready to accept connections
+1:signal-handler (1622404424) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:53:44.880 # User requested shutdown...
+1:M 31 May 2021 03:53:44.883 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:53:44.885 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:53:44.894 * DB saved on disk
+1:M 31 May 2021 03:53:44.899 * Removing the pid file.
+1:M 31 May 2021 03:53:44.903 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:53:52.269 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:53:52.271 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:53:52.273 # Configuration loaded
+1:M 31 May 2021 03:53:52.276 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:53:52.283 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:53:52.285 # Server initialized
+1:M 31 May 2021 03:53:52.288 * Ready to accept connections
+1:signal-handler (1622404490) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:54:50.538 # User requested shutdown...
+1:M 31 May 2021 03:54:50.540 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:54:50.542 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:54:50.550 * DB saved on disk
+1:M 31 May 2021 03:54:50.554 * Removing the pid file.
+1:M 31 May 2021 03:54:50.559 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 03:54:58.014 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 03:54:58.017 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 03:54:58.021 # Configuration loaded
+1:M 31 May 2021 03:54:58.027 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 03:54:58.041 * Running mode=standalone, port=6379.
+1:M 31 May 2021 03:54:58.046 # Server initialized
+1:M 31 May 2021 03:54:58.055 * Ready to accept connections
+1:signal-handler (1622404625) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 03:57:05.245 # User requested shutdown...
+1:M 31 May 2021 03:57:05.252 * Calling fsync() on the AOF file.
+1:M 31 May 2021 03:57:05.256 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 03:57:05.264 * DB saved on disk
+1:M 31 May 2021 03:57:05.266 * Removing the pid file.
+1:M 31 May 2021 03:57:05.268 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 04:07:54.827 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 04:07:54.831 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 04:07:54.834 # Configuration loaded
+1:M 31 May 2021 04:07:54.837 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 04:07:54.843 * Running mode=standalone, port=6379.
+1:M 31 May 2021 04:07:54.845 # Server initialized
+1:M 31 May 2021 04:07:54.847 * Ready to accept connections
+1:signal-handler (1622405483) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 04:11:23.758 # User requested shutdown...
+1:M 31 May 2021 04:11:23.760 * Calling fsync() on the AOF file.
+1:M 31 May 2021 04:11:23.762 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 04:11:23.770 * DB saved on disk
+1:M 31 May 2021 04:11:23.773 * Removing the pid file.
+1:M 31 May 2021 04:11:23.775 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 04:11:30.771 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 04:11:30.775 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 04:11:30.778 # Configuration loaded
+1:M 31 May 2021 04:11:30.781 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 04:11:30.787 * Running mode=standalone, port=6379.
+1:M 31 May 2021 04:11:30.789 # Server initialized
+1:M 31 May 2021 04:11:30.802 * Ready to accept connections
+1:signal-handler (1622405559) Received SIGTERM scheduling shutdown...
+1:M 31 May 2021 04:12:39.082 # User requested shutdown...
+1:M 31 May 2021 04:12:39.084 * Calling fsync() on the AOF file.
+1:M 31 May 2021 04:12:39.086 * Saving the final RDB snapshot before exiting.
+1:M 31 May 2021 04:12:39.091 * DB saved on disk
+1:M 31 May 2021 04:12:39.093 * Removing the pid file.
+1:M 31 May 2021 04:12:39.094 # Redis is now ready to exit, bye bye...
+1:C 31 May 2021 04:12:45.484 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 31 May 2021 04:12:45.487 # Redis version=6.2.3, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 31 May 2021 04:12:45.489 # Configuration loaded
+1:M 31 May 2021 04:12:45.492 * monotonic clock: POSIX clock_gettime
+1:M 31 May 2021 04:12:45.500 * Running mode=standalone, port=6379.
+1:M 31 May 2021 04:12:45.502 # Server initialized
+1:M 31 May 2021 04:12:45.507 * Ready to accept connections
